@@ -21,7 +21,7 @@
 ## Redes sociais
 
 <div>
-	<a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href="http://api.whatsapp.com/send?phone=5519983563070" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href="https://www.instagram.com/wagner_souzaa7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://www.facebook.com/wagner.antunes.73/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/wagner-eduardo-souza-antunes-080b63176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
