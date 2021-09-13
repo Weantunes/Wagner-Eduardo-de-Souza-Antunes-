@@ -1,4 +1,4 @@
-## Olá, Eu sou o Wagner Eduardo de Souza Antunes
+## Olá, Meu nome é Wagner Eduardo de Souza Antunes
 
 <div>
 	<a href="https://github.com/weantunes">
